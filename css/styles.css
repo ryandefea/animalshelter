@@ -1,3 +1,7 @@
+h1 {
+  text-align: center;
+}
+
 body {
   color: red;
 }
@@ -6,6 +10,20 @@ body {
   color: blue;
 }
 
-.dog1 h4 {
-  color:orange
+.dog1 {
+  float:left;
 }
+
+.dog1 h4 {
+  color:orange;
+}
+.dog2 {
+  float:left;
+}
+
+ .dog3 {
+  margin: auto;
+  display: block;
+  box-sizing: border-box;
+  float:left;
+} 
